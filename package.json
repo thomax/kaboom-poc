@@ -1,7 +1,7 @@
 {
   "name": "kaboom-poc",
   "version": "1.0.0",
-  "description": "Wire up a simple Kaboom.js dev environment",
+  "description": "A simple Kaboom.js dev environment",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",

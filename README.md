@@ -1,6 +1,6 @@
 # kaboom-poc
 
-A simple [Kaboom.js](https://kaboomjs.com/) dev environment. Kaboom v2000, that is.
+Kaboom Proof of Concept. A simple [Kaboom.js](https://kaboomjs.com/) dev environment. Kaboom v2000, that is.
 
 ## Getting started
 
